@@ -1,10 +1,8 @@
-# Productos-Reactive-Web-MS
-Reactive Web with Spring Webflux and a microservices-based architecture
-
 <h1 align="center">Hi 👋, I'm Ninisbeth</h1>
 <h3 align="center">A passionate backend developer from Perú</h3>
 
 - 🔭 I’m currently working on [Reactive Web MS - Productos](https://github.com/ninisbeth/Productos-Reactive-Web-MS)
+- Reactive Web with Spring Webflux and a microservices-based architecture
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
